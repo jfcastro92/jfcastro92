@@ -18,6 +18,7 @@ I am Juan Castro, a Software Engineer & Developer who is a tech lover and love t
 </div>
 
 # Follow me on
+<div>
 <a href="https://twitter.com/">
   <img align="left" alt="Twitter" width="35px" src="https://i.pinimg.com/originals/ec/41/47/ec41475eafca0883460602acf1b59e82.png" />
 </a>
@@ -29,17 +30,20 @@ I am Juan Castro, a Software Engineer & Developer who is a tech lover and love t
 <a href="https://www.instagram.com/jfcastro92/">
   <img align="left" alt="Instagram" width="35px" src="https://www.transparentpng.com/thumb/instagram-logo-icon/JTKuuM-instagram-logo-icon-free-transparent.png" />
 </a>
-
 <br>
-
-- 🌱 I’m currently learning **React** and doing **AWS Developer Certificate** course.
-
 <br>
+</div>
 
+# Additional info
+<div>
+- 🌱 I’m currently learning **React** and **AWS** 
 <br>
-
+<br>
+</div>
 
 ### Thank you! for visiting my profile :blush:
  <a href="https://github.com/jfcastro92/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jfcastro92">
 </a>
+
+
