@@ -1,49 +1,37 @@
-# Hi 👋
-I am Juan Castro, a Software Engineer & Developer who is a tech lover and love to make an idea into real. Leveraging expertise in Backend Software Development and cloud application development, participated in product development for Banking Applications, ensuring the digital transformation of financial services and application’s core integrations
+# Hi, I'm Juan Castro 👋
 
-# Coding Stats
+Software Engineer at [Puter](https://github.com/HeyPuter/puter), based in Toronto, Canada 🇨🇦. I build cloud-native backend services, mostly in Node.js/TypeScript, Java (Spring Boot) and Python on AWS. I've spent most of my career on banking products, working on core integrations and the digital shift of financial services, and more recently on data-heavy backends.
+
+## Experience
+- **Software Engineer** · [Puter](https://puter.com) *(current)*: Node.js, JavaScript, distributed file system and performance
+- **Backend Software Engineer** · SensorUp Inc.: AWS Lambda, Amazon S3, DynamoDB, GraphQL, DuckDB
+- **Back End Developer** · Lulo Bank: Node.js, TypeScript, Java 11, Spring Boot, AWS Step Functions, CircleCI
+- **Back End Developer** · Banco de Occidente: Java, Spring, Node.js, Docker, Jenkins, Terraform, SonarQube
+- **Software Developer** · Compunet S.A.: MySQL, SAP HANA
+- **Technical Support Engineer** · Interamerican Technologies SAS: SIP, VoIP, IP PBX
+- **IT Support Assistant** · Bristol Myers Squibb: ASP.NET MVC, SQL Server, SharePoint, SAP ERP
+
+## Tech Stack
+**Languages:** JavaScript · TypeScript · Java · Python · SQL · PHP<br>
+**Backend:** Node.js · Spring Boot · GraphQL<br>
+**Cloud & DevOps:** AWS (Lambda, S3, DynamoDB, Step Functions) · Docker · Terraform · Jenkins · CircleCI · SonarQube<br>
+**Data:** MongoDB · MySQL · SQL Server · DuckDB<br>
+**Practices:** Agile / Scrum · OOP
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,spring,graphql,aws,docker,terraform,jenkins,mongodb,mysql,linux,git&perline=15" alt="Tech stack icons" />
+</p>
+
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jfcastro92&show_icons=true&line_height=30)
 
-# Tech Stack
-<div align="justify">
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Javascript" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code>
-</div>
+## Languages
+🇪🇸 Spanish (native) · 🇬🇧 English (professional working) · 🇫🇷 French (elementary)
 
-# Follow me on
-<div>
-<a href="https://twitter.com/">
-  <img align="left" alt="Twitter" width="35px" src="https://i.pinimg.com/originals/ec/41/47/ec41475eafca0883460602acf1b59e82.png" />
-</a>
+## Connect
+<a href="https://www.linkedin.com/in/juan-castro-77634b86/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/jfcastro92/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-<a href="https://www.linkedin.com/in/juan-castro-77634b86/">
-  <img align="left" alt="Linkedin" width="35px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
-</a>
-
-<a href="https://www.instagram.com/jfcastro92/">
-  <img align="left" alt="Instagram" width="35px" src="https://www.transparentpng.com/thumb/instagram-logo-icon/JTKuuM-instagram-logo-icon-free-transparent.png" />
-</a>
-<br>
-<br>
-</div>
-
-# Additional info
-<div>
-- 🌱 I’m currently learning **React** and **AWS** 
-<br>
-<br>
-</div>
-
-### Thank you! for visiting my profile :blush:
- <a href="https://github.com/jfcastro92/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jfcastro92">
-</a>
-
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jfcastro92" alt="Profile views" />
+</p>
